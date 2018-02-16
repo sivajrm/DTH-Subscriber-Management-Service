@@ -1,4 +1,5 @@
 # DTH-Subscriber-Management-Service
-Designed an online DTH subscriber management portal page for maintaining the subscriber and subscription details.
-Provided support for Viewing various DTH packages, its Tariff details, Subscriber profile with subscription details, New user sign-up and Existing user login.
-Utilised MS ACCESS database for storing the credentials and the user and subscription details, HTML/CSS for Frontend and Perl as the server scripting language.
+Designed an online DTH subscriber management portal with services for viewing various package details, subscriber profile, subscription details, new user sign-up and existing user login. 
+Hosted this service on an Apache server and used Perl as a server-side scripting language. 
+
+Technologies: HTML/CSS, JavaScript, MS Access, Perl
